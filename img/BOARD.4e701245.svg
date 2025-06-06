@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_1" data-name="Calque 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1021 1021">
+  <path d="M10,0h117.62v127.62H0V10C0,4.48,4.48,0,10,0Z" style="fill: var(--svg-board-bc);"/>
+  <rect x="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <path d="M893.38,0h117.62c5.52,0,10,4.48,10,10v117.62h-127.62V0Z" style="fill: var(--svg-board-bg);"/>
+  <rect y="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="127.62" y="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="255.25" y="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="382.88" y="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="510.5" y="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="638.12" y="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="765.75" y="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="893.38" y="127.62" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect y="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="127.62" y="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="255.25" y="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="382.88" y="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="510.5" y="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="638.12" y="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="765.75" y="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="893.38" y="255.25" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect y="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="127.62" y="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="255.25" y="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="382.88" y="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="510.5" y="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="638.12" y="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="765.75" y="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="893.38" y="382.88" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect y="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="127.62" y="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="255.25" y="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="382.88" y="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="510.5" y="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="638.12" y="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="765.75" y="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="893.38" y="510.5" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect y="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="127.62" y="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="255.25" y="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="382.88" y="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="510.5" y="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="638.12" y="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="765.75" y="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="893.38" y="638.12" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect y="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="127.62" y="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="255.25" y="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="382.88" y="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="510.5" y="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="638.12" y="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="765.75" y="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="893.38" y="765.75" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <path d="M0,893.38h127.62v127.62H10c-5.52,0-10-4.48-10-10v-117.62Z" style="fill: var(--svg-board-bg);"/>
+  <rect x="127.62" y="893.38" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="255.25" y="893.38" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="382.88" y="893.38" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="510.5" y="893.38" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <rect x="638.12" y="893.38" width="127.62" height="127.62" style="fill: var(--svg-board-bc);"/>
+  <rect x="765.75" y="893.38" width="127.62" height="127.62" style="fill: var(--svg-board-bg);"/>
+  <path d="M893.38,893.38h127.62v117.62c0,5.52-4.48,10-10,10h-117.62v-127.62Z" style="fill: var(--svg-board-bc);"/>
+</svg>
